@@ -170,7 +170,7 @@ export default function Home() {
               </div>
               <div className="pipeline-summary">
                 <span>11 visibles</span>
-                <strong>$18,4 M</strong>
+                <strong>$18,5 M</strong>
               </div>
             </div>
             <div

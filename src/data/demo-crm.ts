@@ -28,7 +28,7 @@ export type PipelineStage = {
 export const metrics: readonly Metric[] = [
   {
     label: "Pipeline abierto",
-    value: "$18,4 M",
+    value: "$18,5 M",
     change: "+12,5%",
     trend: "up",
     detail: "frente al mes anterior",
